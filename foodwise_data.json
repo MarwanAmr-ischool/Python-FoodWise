@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "id": "demo-a",
+      "name": "Strawberries",
+      "category": "Fruit",
+      "expiry": "2026-10-16",
+      "price": 12,
+      "quantity": "1 box"
+    },
+    {
+      "id": "demo-b",
+      "name": "Spinach",
+      "category": "Vegetable",
+      "expiry": "2026-10-17",
+      "price": 8,
+      "quantity": "1 bag"
+    },
+    {
+      "id": "demo-c",
+      "name": "Milk",
+      "category": "Dairy",
+      "expiry": "2026-10-20",
+      "price": 7,
+      "quantity": "1 carton"
+    },
+    {
+      "id": "demo-d",
+      "name": "Bread",
+      "category": "Bakery",
+      "expiry": "2026-10-19",
+      "price": 6,
+      "quantity": "1 loaf"
+    }
+  ],
+  "shopping": [
+    {
+      "id": "shop-demo",
+      "name": "Oats",
+      "done": false,
+      "price": 8
+    }
+  ],
+  "budget": 0
+}
